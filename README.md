@@ -6,6 +6,7 @@ Table of contents
 * [Introduction](#introduction)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Example PDF](#example)
 * [Known issues and limitations](#known-issues-and-limitations)
 * [Getting help](#getting-help)
 * [Contributing](#contributing)
@@ -62,6 +63,10 @@ Following the above steps will result in a PDF being generated in the betList fo
 
 Only fixtures containing opposing teams in the "teams.txt" file will be predicted, more teams can be added by entering the name of the team followed by that teams ID on www.soccerbase.com
 
+Example PDF
+----------------------------
+
+![Example PDF](/images/2020-11-16_BetList.PNG)
 
 Known issues and limitations
 ----------------------------
