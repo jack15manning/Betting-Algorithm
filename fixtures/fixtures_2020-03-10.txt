@@ -1,0 +1,9 @@
+RB Leipzig,Tottenham
+Valencia,Atalanta
+Eibar,Sociedad
+Man City,Arsenal
+Liverpool,Atl Madrid
+Paris St-G.,B Dortmund
+Mgladbach,Cologne
+Sevilla,Roma
+Inter,Getafe

@@ -1,0 +1,9 @@
+Hertha Berlin,Union Berlin
+Mgladbach,B Leverkusen
+SC Paderborn,Hoffenheim
+Freiburg,W Bremen
+Wolfsburg,B Dortmund
+B Munich,E Frankfurt
+Schalke,Augsburg
+Mainz,RB Leipzig
+Cologne,F Dusseldorf

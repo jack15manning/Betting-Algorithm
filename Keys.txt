@@ -1,0 +1,17 @@
+Twitter
+API
+d5pEaeD9g6BRTg4YgrBBXE01T
+API Secret
+6TgcN2g76wMKFUiwJ0DqIGkIyLE4Q3HPi444V6WKMXy9Q0WCQ3
+Bearer Token
+AAAAAAAAAAAAAAAAAAAAAOtxHAEAAAAAp29nwcP0dRgslFkYtPAmoiqCzy4%3DEcJDVCn6ZINEQdKnoDN4AxAPb1EX5zjjjuR1P6kurBBvx8vAbK
+Access Token
+1298604826662703110-lttUgVWlr11rjLjjgmnp25kObYxOQ3
+Access Secret
+rDamrR4pqRZEOVAxr7KAUCq0Rh2HbMoJVPWiWfjEenYOf
+
+Drive
+Client ID
+309362741386-315lov3k6khd4s72e6sfo3orrlbeef69.apps.googleusercontent.com
+Client Secret
+Nj3xvp_Gs5N0KwDWqYMme32H

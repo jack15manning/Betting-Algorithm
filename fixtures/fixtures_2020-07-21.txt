@@ -1,0 +1,35 @@
+Watford,Man City
+Aston Villa,Arsenal
+Atalanta,Bologna
+Sassuolo,Milan
+Man Utd,West Ham
+Liverpool,Chelsea
+Parma,Napoli
+Inter,Fiorentina
+Lecce,Brescia
+Sampdoria,Genoa
+Spal,Roma
+Torino,Verona
+Udinese,Juventus
+Lazio,Cagliari
+Milan,Atalanta
+Paris St-G.,St-Etienne
+Brescia,Parma
+Genoa,Inter
+Napoli,Sassuolo
+Arsenal,Watford
+Burnley,Brighton
+Chelsea,Wolves
+Crystal Palace,Tottenham
+Everton,Bournemouth
+Leicester,Man Utd
+Man City,Norwich
+Newcastle,Liverpool
+Southampton,Sheff Utd
+West Ham,Aston Villa
+Bologna,Lecce
+Cagliari,Udinese
+Roma,Fiorentina
+Spal,Torino
+Verona,Lazio
+Juventus,Sampdoria

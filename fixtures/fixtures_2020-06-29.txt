@@ -1,0 +1,57 @@
+Crystal Palace,Burnley
+Getafe,Sociedad
+Brighton,Man Utd
+Mallorca,Celta Vigo
+Leganes,Sevilla
+Barcelona,Atl Madrid
+Torino,Lazio
+Genoa,Juventus
+Arsenal,Norwich
+Bournemouth,Newcastle
+Everton,Leicester
+West Ham,Chelsea
+Alaves,Granada
+Valencia,Ath Bilbao
+Real Betis,Villarreal
+Valladolid,Levante
+Bologna,Cagliari
+Inter,Brescia
+Fiorentina,Sassuolo
+Lecce,Sampdoria
+Spal,Milan
+Verona,Parma
+Sheff Utd,Tottenham
+Man City,Liverpool
+Eibar,Osasuna
+Sociedad,Espanyol
+Real Madrid,Getafe
+Atalanta,Napoli
+Roma,Udinese
+Atl Madrid,Mallorca
+Norwich,Brighton
+Leicester,Crystal Palace
+Man Utd,Bournemouth
+Wolves,Arsenal
+Chelsea,Watford
+B Leverkusen,B Munich
+Celta Vigo,Real Betis
+Valladolid,Alaves
+Granada,Valencia
+Juventus,Torino
+Sassuolo,Lecce
+Lazio,Milan
+Burnley,Sheff Utd
+Newcastle,West Ham
+Liverpool,Aston Villa
+Southampton,Man City
+Ath Bilbao,Real Madrid
+Espanyol,Leganes
+Osasuna,Getafe
+Villarreal,Barcelona
+Inter,Bologna
+Brescia,Verona
+Cagliari,Atalanta
+Parma,Fiorentina
+Sampdoria,Spal
+Udinese,Genoa
+Napoli,Roma

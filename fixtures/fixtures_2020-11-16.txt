@@ -1,0 +1,46 @@
+Osasuna,Huesca
+Rennes,Bordeaux
+Monaco,Paris St-G.
+Newcastle,Chelsea
+Aston Villa,Brighton
+Tottenham,Man City
+Man Utd,West Brom
+Levante,Elche
+Villarreal,Real Madrid
+Sevilla,Celta Vigo
+Atl Madrid,Barcelona
+Mgladbach,Augsburg
+Arminia,B Leverkusen
+B Munich,W Bremen
+Schalke,Wolfsburg
+Hoffenheim,Stuttgart
+E Frankfurt,RB Leipzig
+Hertha Berlin,B Dortmund
+Crotone,Lazio
+Spezia,Atalanta
+Juventus,Cagliari
+Stade Brest,St-Etienne
+Marseille,Nice
+Fulham,Everton
+Sheff Utd,West Ham
+Leeds,Arsenal
+Liverpool,Leicester
+Eibar,Getafe
+Cadiz,Sociedad
+Granada,Valladolid
+Alaves,Valencia
+Freiburg,Mainz
+Cologne,Union Berlin
+Fiorentina,Benevento
+Inter,Torino
+Roma,Parma
+Sampdoria,Bologna
+Verona,Sassuolo
+Udinese,Genoa
+Napoli,Milan
+Nantes,Metz
+Dijon,Lens
+Montpellier,Strasbourg
+Reims,Nimes
+Angers,Lyon
+Lille,Lorient

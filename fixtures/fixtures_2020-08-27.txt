@@ -1,0 +1,9 @@
+Lyon,Dijon
+Arsenal,Liverpool
+Rennes,Montpellier
+Strasbourg,Nice
+Reims,Lille
+Angers,Bordeaux
+Metz,Monaco
+Nantes,Nimes
+Stade Brest,Marseille

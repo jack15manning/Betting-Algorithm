@@ -1,0 +1,20 @@
+Hoffenheim,RB Leipzig
+Granada,Getafe
+Valencia,Levante
+Juventus,Milan
+Cologne,Union Berlin
+F Dusseldorf,B Dortmund
+Hertha Berlin,E Frankfurt
+SC Paderborn,W Bremen
+Wolfsburg,Freiburg
+B Munich,Mgladbach
+Espanyol,Alaves
+Celta Vigo,Villarreal
+Leganes,Valladolid
+Mallorca,Barcelona
+Napoli,Inter
+Mainz,Augsburg
+Schalke,B Leverkusen
+Ath Bilbao,Atl Madrid
+Real Madrid,Eibar
+Sociedad,Osasuna

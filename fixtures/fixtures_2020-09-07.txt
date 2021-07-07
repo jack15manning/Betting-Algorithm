@@ -1,0 +1,23 @@
+Lens,Paris St-G.
+Granada,Ath Bilbao
+Bordeaux,Lyon
+Fulham,Arsenal
+Crystal Palace,Southampton
+West Ham,Newcastle
+Liverpool,Leeds
+Eibar,Celta Vigo
+Cadiz,Osasuna
+Montpellier,Nice
+St-Etienne,Strasbourg
+West Brom,Leicester
+Tottenham,Everton
+Valladolid,Sociedad
+Villarreal,Huesca
+Valencia,Levante
+Lille,Metz
+Angers,Reims
+Dijon,Stade Brest
+Lorient,Lens
+Nimes,Rennes
+Monaco,Nantes
+Paris St-G.,Marseille

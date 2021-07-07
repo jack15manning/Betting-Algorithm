@@ -1,0 +1,101 @@
+Arsenal,142
+Aston Villa,154
+Brighton,381
+Burnley,435
+Chelsea,536
+Crystal Palace,646
+Everton,942
+Fulham,1055
+Leeds,1524
+Leicester,1527
+Liverpool,1563
+Man City,1718
+Man Utd,1724
+Newcastle,1823
+Sheff Utd,2328
+Southampton,2471
+Tottenham,2590
+Watford,2741
+West Brom,2744
+West Ham,2802
+Wolves,2848
+Alaves,2975
+Ath Bilbao,207
+Atl Madrid,163
+Barcelona,224
+Cadiz,3216
+Celta Vigo,690
+Eibar,889
+Elche,3481
+Getafe,3480
+Granada,3427
+Huesca,3496
+Levante,3251
+Osasuna,1951
+Real Betis,2159
+Real Madrid,2165
+Sevilla,2292
+Sociedad,2192
+Valencia,2697
+Valladolid,2676
+Villarreal,3123
+Arminia,2843
+Augsburg,4796
+B Dortmund,398
+B Leverkusen,468
+B Munich,469
+Cologne,970
+E Frankfurt,884
+Freiburg,1054
+Hertha Berlin,1284
+Hoffenheim,3937
+Mainz,3050
+Mgladbach,403
+RB Leipzig,5709
+Schalke,2260
+Stuttgart,2682
+Union Berlin,3393
+W Bremen,2854
+Wolfsburg,2967
+Atalanta,17
+Benevento,4612
+Bologna,268
+Cagliari,525
+Crotone,4195
+Fiorentina,999
+Genoa,1082
+Inter,1370
+Juventus,1408
+Lazio,1501
+Milan,41
+Napoli,1801
+Parma,2037
+Roma,2163
+Sampdoria,2388
+Sassuolo,4692
+Spezia,4794
+Torino,2584
+Udinese,2634
+Verona,2681
+Angers,68
+Bordeaux,246
+Dijon,4197
+Lens,1590
+Lille,1576
+Lorient,3150
+Lyon,1645
+Marseille,1748
+Metz,1772
+Monaco,1674
+Montpellier,1767
+Nantes,1800
+Nice,1832
+Nimes,1834
+Paris St-G.,2068
+Reims,2146
+Rennes,2173
+St-Etienne,935
+Stade Brest,2934
+Strasbourg,2248
+England,909
+Denmark,783

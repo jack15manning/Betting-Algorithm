@@ -1,0 +1,15 @@
+Man Utd,Arsenal
+Tottenham,Brighton
+Granada,Levante
+Valencia,Getafe
+Hertha Berlin,Wolfsburg
+Napoli,Sassuolo
+Roma,Fiorentina
+Sampdoria,Genoa
+Monaco,Bordeaux
+Lille,Lyon
+Fulham,West Brom
+Leeds,Leicester
+Villarreal,Valladolid
+Hoffenheim,Union Berlin
+Verona,Benevento
