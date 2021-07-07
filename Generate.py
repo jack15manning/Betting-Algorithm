@@ -2,7 +2,6 @@ import sys
 import Fixtures
 import Algorithm
 import PDF
-import Tweet
 from datetime import datetime, timedelta
 def main():
 	#Work out days to get Fixtures
